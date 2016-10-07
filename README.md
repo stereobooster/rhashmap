@@ -12,3 +12,4 @@ I plan to start by porting [C implementation](https://github.com/torvalds/linux/
  - [What is RCU, Fundamentally?](https://lwn.net/Articles/262464/)
  - [Lock-freedom without garbage collection](https://aturon.github.io/blog/2015/08/27/epoch/)
  - [Crossbeam](https://github.com/aturon/crossbeam)
+ - https://github.com/aturon/crossbeam/issues/13
